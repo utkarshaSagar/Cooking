@@ -1,0 +1,6 @@
+{
+  "name": "Meal and Cooking Planner",
+  "description": "An AI-powered daily meal planner, grocery list builder, ingredient substitution recommender, and budget feasibility tracker tailored to your schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
